@@ -1,5 +1,3 @@
-nginx
-#支持私库
 funcman/115pc:latest
 xhofe/alist:latest
 p3terx/aria2-pro:latest
@@ -29,5 +27,3 @@ vaultwarden/server:latest
 jonnyan404/verysync:latest
 wiznote/wizserver:latest
 cnk3x/xunlei:latest
-#支持指定架构
-# --platform=linux/amd64 whyour/qinglong:latest
