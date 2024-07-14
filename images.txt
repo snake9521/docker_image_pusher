@@ -1,4 +1,33 @@
 nginx
 #支持私库
+funcman/115pc:latest
+xhofe/alist:latest
+p3terx/aria2-pro:latest
+johngong/baidunetdisk:latest
+pch18/baota:lnp
+wxhere/bitcomet:latest
+dezhao/bookbrowser_cn:latest
+sanjusss/aliyun-ddns:latest
+jbartlett777/diskspeed:latest
+jlesage/dupeguru:latest
+snowdreamtech/frps:latest
+zmisgod/iptvchecker:latest
+herberthe0229/iptv-sources:latest
+qingfeng2336/it-tools:latest
+nyanmisaka/jellyfin:latest
+kodcloud/kodexplorer:latest
+dezhao/lanraragi_cn:latest
+wcjiang/linux-command:latest
+gdy666/lucky:latest
+openspeedtest/latest
+linuxserver/qbittorrent:latest
+whyour/qinglong:latest
+hslr/sun-panel:latest
+talebook/talebook:latest
+wukongdaily/box:latest
+vaultwarden/server:latest
+jonnyan404/verysync:latest
+wiznote/wizserver:latest
+cnk3x/xunlei:latest
 #支持指定架构
---platform=linux/amd64 whyour/qinglong:latest
+# --platform=linux/amd64 whyour/qinglong:latest
