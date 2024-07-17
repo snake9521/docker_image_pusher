@@ -1,2 +1,1 @@
-zmisgod/iptvchecker
-wcjiang/linux-command
+gdy666/lucky
