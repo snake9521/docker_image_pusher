@@ -1,1 +1,1 @@
-wordpress
+zmisgod/iptvchecker
