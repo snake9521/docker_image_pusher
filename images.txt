@@ -1,1 +1,2 @@
-zmisgod/iptvchecker
+sanjusss/aliyun-ddns
+oznu/cloudflare-ddns
