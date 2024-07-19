@@ -1,2 +1,1 @@
-sanjusss/aliyun-ddns
-oznu/cloudflare-ddns
+snowdreamtech/frps
