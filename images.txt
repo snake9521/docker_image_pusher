@@ -1,1 +1,1 @@
-snowdreamtech/frps
+jlesage/nginx-proxy-manager
