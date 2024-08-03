@@ -1,2 +1,1 @@
-searxng/searxng
-wordpress
+holaflenain/stable-diffusion
