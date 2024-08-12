@@ -1,1 +1,1 @@
-holaflenain/stable-diffusion
+selenium/standalone-chrome
