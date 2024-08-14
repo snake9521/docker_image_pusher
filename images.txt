@@ -1,4 +1,3 @@
-selenium/standalone-chrome
-mariadb
+qingfeng2336/it-tools
 redis
 wordpress
