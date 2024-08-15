@@ -1,3 +1,4 @@
-qingfeng2336/it-tools
+wcjiang/linux-command
 redis
 wordpress
+searxng/searxng
