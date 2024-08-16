@@ -1,4 +1,2 @@
-wcjiang/linux-command
-redis
-wordpress
+mariadb
 searxng/searxng
