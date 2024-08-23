@@ -1,3 +1,2 @@
 gdy666/lucky
-searxng/searxng
-selenium/standalone-chrome
+
