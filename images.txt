@@ -1,2 +1,5 @@
-wxhere/bitcomet
 searxng/searxng
+hslr/sun-panel
+selenium/standalone-chrome
+youshandefeiyang/allinone
+jgraph/drawio
