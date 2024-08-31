@@ -1,5 +1,4 @@
 searxng/searxng
-hslr/sun-panel
-selenium/standalone-chrome
+whyour/qinglong
 youshandefeiyang/allinone
-jgraph/drawio
+cnk3x/xunlei
