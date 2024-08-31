@@ -1,4 +1,4 @@
 searxng/searxng
 whyour/qinglong
-youshandefeiyang/allinone
-cnk3x/xunlei
+selenium/standalone-chrome
+wordpress
