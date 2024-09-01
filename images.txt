@@ -1,4 +1,2 @@
 searxng/searxng
-whyour/qinglong
-selenium/standalone-chrome
 wordpress
