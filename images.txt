@@ -1,2 +1,2 @@
-searxng/searxng
-wordpress
+whyour/qinglong
+youshandefeiyang/allinone
