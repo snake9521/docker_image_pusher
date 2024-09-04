@@ -1,2 +1,2 @@
-wcjiang/linux-command
-searxng/searxng
+youshandefeiyang/allinone
+mariadb
