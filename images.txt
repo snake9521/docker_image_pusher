@@ -1,2 +1,3 @@
-youshandefeiyang/allinone
-mariadb
+jbartlett777/diskspeed
+redis
+wordpress
