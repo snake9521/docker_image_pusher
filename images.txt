@@ -1,3 +1,4 @@
-jbartlett777/diskspeed
+youshandefeiyang/allinone
 redis
+searxng/searxng
 wordpress
