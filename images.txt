@@ -1,4 +1,5 @@
-youshandefeiyang/allinone
-redis
-searxng/searxng
+xhofe/alist
+jbartlett777/diskspeed
+herberthe0229/iptv-sources
 wordpress
+selenium/standalone-chrome
