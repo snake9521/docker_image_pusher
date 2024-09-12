@@ -1,5 +1,2 @@
-xhofe/alist
-jbartlett777/diskspeed
-herberthe0229/iptv-sources
+youshandefeiyang/allinone
 wordpress
-selenium/standalone-chrome
