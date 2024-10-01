@@ -1,2 +1,3 @@
-youshandefeiyang/allinone
+mariadb
 wordpress
+redis
