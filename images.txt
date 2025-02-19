@@ -9,6 +9,7 @@ jbartlett777/diskspeed:latest
 oldiy/dosgame-web-docker:latest
 jgraph/drawio:latest
 jlesage/dupeguru:latest
+dullage/flatnotes:latest
 gotify/server:latest
 linzeyi/hivision_idphotos:latest
 xgheaven/homebox:latest
