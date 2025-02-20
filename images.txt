@@ -1,1 +1,1 @@
-etherpad/etherpad:latest
+ykxvk8yl5l/pikpak:latest
