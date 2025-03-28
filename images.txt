@@ -26,7 +26,6 @@ mariadb:latest
 doocs/md:latest
 githubyumao/mcsmanager-daemon:latest
 githubyumao/mcsmanager-web:latest
-shuiche/mind-map:latest
 zmister/mrdoc:v8
 openspeedtest/latest
 bpatrik/pigallery2:latest
@@ -40,7 +39,6 @@ vaultwarden/server:latest
 jonnyan404/verysync:latest
 wallabag/wallabag:latest
 bndw/wifi-card:latest
-
 wiznote/wizserver:latest
 wordpress:latest
 cnk3x/xunlei:latest
