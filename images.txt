@@ -10,6 +10,7 @@ jgraph/drawio:latest
 jlesage/dupeguru:latest
 etherpad/etherpad:latest
 dullage/flatnotes:latest
+liwei2633/gopeed:latest
 gotify/server:latest
 linzeyi/hivision_idphotos:latest
 xgheaven/homebox:latest
@@ -18,7 +19,7 @@ herberthe0229/iptv-sources:latest
 qingfeng2336/it-tools:latest
 nyanmisaka/jellyfin:latest
 jvmilazz0/kavita:latest
-kodcloud/kodexplorer:latest
+kodcloud/kodbox:latest
 dezhao/lanraragi_cn:latest
 wcjiang/linux-command:latest
 gdy666/lucky:latest
@@ -26,6 +27,7 @@ mariadb:latest
 doocs/md:latest
 githubyumao/mcsmanager-daemon:latest
 githubyumao/mcsmanager-web:latest
+# shuiche/mind-map:latest
 zmister/mrdoc:v8
 openspeedtest/latest
 bpatrik/pigallery2:latest
