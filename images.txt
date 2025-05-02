@@ -9,8 +9,6 @@ oldiy/dosgame-web-docker:latest
 jgraph/drawio:latest
 jlesage/dupeguru:latest
 etherpad/etherpad:latest
-dullage/flatnotes:latest
-liwei2633/gopeed:latest
 gotify/server:latest
 linzeyi/hivision_idphotos:latest
 xgheaven/homebox:latest
@@ -27,7 +25,7 @@ mariadb:latest
 doocs/md:latest
 githubyumao/mcsmanager-daemon:latest
 githubyumao/mcsmanager-web:latest
-# shuiche/mind-map:latest
+shuiche/mind-map:latest
 zmister/mrdoc:v8
 openspeedtest/latest
 bpatrik/pigallery2:latest
@@ -39,8 +37,6 @@ hslr/sun-panel:latest
 wukongdaily/box:latest
 vaultwarden/server:latest
 jonnyan404/verysync:latest
-wallabag/wallabag:latest
 bndw/wifi-card:latest
-wiznote/wizserver:latest
 wordpress:latest
 cnk3x/xunlei:latest
