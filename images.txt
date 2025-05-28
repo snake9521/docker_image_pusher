@@ -23,8 +23,6 @@ wcjiang/linux-command:latest
 gdy666/lucky:latest
 mariadb:latest
 doocs/md:latest
-githubyumao/mcsmanager-daemon:latest
-githubyumao/mcsmanager-web:latest
 zmister/mrdoc:v8
 openspeedtest/latest
 bpatrik/pigallery2:latest
