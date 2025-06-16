@@ -1,8 +1,7 @@
 adminer:latest
-xhofe/alist:latest
 p3terx/aria2-pro:latest
 johngong/baidunetdisk:latest
-wxhere/bitcomet:latest
+wxhere/bitcomet-webui:latest
 operepo/ope-codecombat:latest
 jbartlett777/diskspeed:latest
 oldiy/dosgame-web-docker:latest
@@ -19,6 +18,7 @@ nyanmisaka/jellyfin:latest
 jvmilazz0/kavita:latest
 kodcloud/kodbox:latest
 dezhao/lanraragi_cn:latest
+bestzwei/libretv:latest
 wcjiang/linux-command:latest
 gdy666/lucky:latest
 mariadb:latest
