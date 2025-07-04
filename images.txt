@@ -24,6 +24,7 @@ gdy666/lucky:latest
 mariadb:latest
 doocs/md:latest
 zmister/mrdoc:v8
+iib0011/omni-tools:latest
 openspeedtest/latest
 bpatrik/pigallery2:latest
 whyour/qinglong:latest
