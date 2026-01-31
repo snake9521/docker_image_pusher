@@ -25,14 +25,13 @@ zmister/mrdoc:v8
 iib0011/omni-tools:latest
 openspeedtest/latest
 bpatrik/pigallery2:latest
-whyour/qinglong:latest
 hectorqin/reader:latest
 redis:latest
 inglebard/retroarch-web:latest
 hslr/sun-panel:latest
+docker0796/tools-web:latest
 wukongdaily/box:latest
 vaultwarden/server:latest
 jonnyan404/verysync:latest
 bndw/wifi-card:latest
-wordpress:latest
 cnk3x/xunlei:latest
