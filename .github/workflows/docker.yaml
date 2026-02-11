@@ -1,9 +1,9 @@
 name: Docker
 
-于:
+on:
   workflow_dispatch:
   push:
-    分支: [ main ]
+    branches: [ main ]
   schedule:
   - cron: '00 23 * * 5'
  
