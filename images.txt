@@ -1,38 +1,38 @@
---platform=linux/amd64 adguard/adguardhome
---platform=linux/amd64 adminer
---platform=linux/amd64 p3terx/aria2-pro
---platform=linux/amd64 johngong/baidunetdisk
---platform=linux/amd64 bentopdf/bentopdf
---platform=linux/amd64 wxhere/bitcomet-webui
---platform=linux/amd64 oldiy/dosgame-web-docker
---platform=linux/amd64 jgraph/drawio
---platform=linux/amd64 jlesage/dupeguru
---platform=linux/amd64 gotify/server
---platform=linux/amd64 xushier/hd-icons
---platform=linux/amd64 linzeyi/hivision_idphotos
---platform=linux/amd64 xgheaven/homebox
---platform=linux/amd64 zmisgod/iptvchecker
---platform=linux/amd64 herberthe0229/iptv-sources
---platform=linux/amd64 qingfeng2336/it-tools
---platform=linux/amd64 nyanmisaka/jellyfin
---platform=linux/amd64 jvmilazz0/kavita
---platform=linux/amd64 kodcloud/kodbox
---platform=linux/amd64 difegue/lanraragi
---platform=linux/amd64 gdy666/lucky:v2
---platform=linux/amd64 mariadb
---platform=linux/amd64 itzg/minecraft-server
---platform=linux/amd64 mtphotos/mt-photos
---platform=linux/amd64 mtphotos/mt-photos-ai
---platform=linux/amd64 devfox101/mt-photos-insightface-unofficial
---platform=linux/amd64 openspeedtest/latest
---platform=linux/amd64 hectorqin/reader
---platform=linux/amd64 redis
---platform=linux/amd64 redis/redisinsight
---platform=linux/amd64 inglebard/retroarch-web
---platform=linux/amd64 stirlingtools/stirling-pdf
---platform=linux/amd64 docker0796/tools-web
---platform=linux/amd64 wukongdaily/box
---platform=linux/amd64 vaultwarden/server
---platform=linux/amd64 jonnyan404/verysync
---platform=linux/amd64 bndw/wifi-card
---platform=linux/amd64 cnk3x/xunlei
+adguard/adguardhome
+adminer
+p3terx/aria2-pro
+johngong/baidunetdisk
+bentopdf/bentopdf
+wxhere/bitcomet-webui
+oldiy/dosgame-web-docker
+jgraph/drawio
+jlesage/dupeguru
+gotify/server
+xushier/hd-icons
+linzeyi/hivision_idphotos
+xgheaven/homebox
+zmisgod/iptvchecker
+herberthe0229/iptv-sources
+qingfeng2336/it-tools
+nyanmisaka/jellyfin
+jvmilazz0/kavita
+kodcloud/kodbox
+difegue/lanraragi
+gdy666/lucky:v2
+mariadb
+itzg/minecraft-server
+mtphotos/mt-photos
+mtphotos/mt-photos-ai
+devfox101/mt-photos-insightface-unofficial
+openspeedtest/latest
+hectorqin/reader
+redis
+redis/redisinsight
+inglebard/retroarch-web
+stirlingtools/stirling-pdf
+docker0796/tools-web
+wukongdaily/box
+vaultwarden/server
+jonnyan404/verysync
+bndw/wifi-card
+cnk3x/xunlei
