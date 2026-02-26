@@ -30,6 +30,7 @@ redis
 redis/redisinsight
 inglebard/retroarch-web
 stirlingtools/stirling-pdf
+hslr/sun-panel
 docker0796/tools-web
 wukongdaily/box
 vaultwarden/server
