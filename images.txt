@@ -18,6 +18,7 @@ nyanmisaka/jellyfin
 jvmilazz0/kavita
 kodcloud/kodbox
 difegue/lanraragi
+localai/localai:latest-aio-cpu
 gdy666/lucky:v2
 mariadb
 itzg/minecraft-server
