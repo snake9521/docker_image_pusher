@@ -4,6 +4,7 @@ p3terx/aria2-pro
 johngong/baidunetdisk
 bentopdf/bentopdf
 wxhere/bitcomet-webui
+1panel/cordys-crm
 oldiy/dosgame-web-docker
 jgraph/drawio
 jlesage/dupeguru
