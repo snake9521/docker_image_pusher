@@ -1,10 +1,8 @@
-adguard/adguardhome
 adminer
 p3terx/aria2-pro
 johngong/baidunetdisk
 bentopdf/bentopdf
 wxhere/bitcomet-webui
-1panel/cordys-crm
 oldiy/dosgame-web-docker
 jgraph/drawio
 jlesage/dupeguru
@@ -26,6 +24,8 @@ itzg/minecraft-server
 mtphotos/mt-photos
 mtphotos/mt-photos-ai
 devfox101/mt-photos-insightface-unofficial
+hsiaoshun/noname
+lampon/omnibox
 openspeedtest/latest
 hectorqin/reader
 redis
@@ -34,8 +34,6 @@ inglebard/retroarch-web
 stirlingtools/stirling-pdf
 hslr/sun-panel
 docker0796/tools-web
-wukongdaily/box
 vaultwarden/server
 jonnyan404/verysync
-bndw/wifi-card
 cnk3x/xunlei
