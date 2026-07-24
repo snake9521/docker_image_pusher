@@ -1,5 +1,6 @@
 adminer
 p3terx/aria2-pro
+ghcr.io/advplyr/audiobookshelf
 johngong/baidunetdisk
 wxhere/bitcomet-webui
 mmartial/comfyui-nvidia-docker:ubuntu24_cuda13.2-latest
@@ -15,9 +16,10 @@ nyanmisaka/jellyfin
 jvmilazz0/kavita
 kodcloud/kodbox
 difegue/lanraragi
+ghcr.io/ggml-org/llama.cpp:server-cuda13
 gdy666/lucky:v2
 mariadb
-itzg/minecraft-server
+itzg/minecraft-server:java21
 mtphotos/mt-photos
 mtphotos/mt-photos-ai
 devfox101/mt-photos-insightface-unofficial
