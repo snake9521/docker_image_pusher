@@ -24,6 +24,7 @@ mtphotos/mt-photos
 mtphotos/mt-photos-ai
 devfox101/mt-photos-insightface-unofficial
 openspeedtest/latest
+ghcr.io/sillytavern/sillytavern
 hslr/sun-panel
 vaultwarden/server
 jonnyan404/verysync
