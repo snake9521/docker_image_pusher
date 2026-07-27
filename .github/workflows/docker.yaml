@@ -1,12 +1,11 @@
 name: Docker
 
-于:
+on:
   workflow_dispatch:
   push:
-    分支: [ main ]
+    branches: [ main ]
   schedule:
   - cron: '30 14 * * 5'
-
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
