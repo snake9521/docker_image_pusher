@@ -1,11 +1,11 @@
 name: Docker
 
-on:
+于:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    分支: [ main ]
   schedule:
-  - cron: '00 15 * * 5'
+  - cron: '30 14 * * 5'
 
 
 env:
