@@ -26,6 +26,7 @@ devfox101/mt-photos-insightface-unofficial
 openspeedtest/latest
 searxng/searxng
 ghcr.io/sillytavern/sillytavern
+junkerderprovinz/stellarium
 hslr/sun-panel
 vaultwarden/server
 jonnyan404/verysync
