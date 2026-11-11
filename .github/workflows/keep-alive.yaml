@@ -1,0 +1,17 @@
+name: Keep Alive
+on:
+  schedule:
+    - cron: '30 4 * * 6'   # 周六 04:30 UTC = 北京周六 12:30，每周一次空 commit 重置 60 天活跃计时器
+  workflow_dispatch:
+jobs:
+  keep:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "keep-alive[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "keep alive: reset 60-day clock"
+          git push origin HEAD:main
